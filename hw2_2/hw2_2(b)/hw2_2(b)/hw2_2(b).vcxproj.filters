@@ -23,10 +23,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="hw2_1.cpp">
-      <Filter>來源檔案</Filter>
-    </ClCompile>
-    <ClCompile Include="hw2.cpp">
+    <ClCompile Include="hw2_2(b).cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>

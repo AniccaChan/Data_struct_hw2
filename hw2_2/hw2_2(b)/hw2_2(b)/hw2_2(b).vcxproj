@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{004C8379-B8BB-4A78-B01D-0CBE5D5894ED}</ProjectGuid>
+    <ProjectGuid>{89BE3852-0282-49DB-88E4-53FD1C6846BE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>hw21</RootNamespace>
+    <RootNamespace>hw22b</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -154,8 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hw2.cpp" />
-    <ClCompile Include="hw2_1.cpp" />
+    <ClCompile Include="hw2_2(b).cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
